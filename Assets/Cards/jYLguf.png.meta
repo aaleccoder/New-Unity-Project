@@ -1,0 +1,1357 @@
+fileFormatVersion: 2
+guid: 6eedc93505289f041aafc2a5453d2768
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jYLguf_0
+    21300002: jYLguf_1
+    21300004: jYLguf_2
+    21300006: jYLguf_3
+    21300008: jYLguf_4
+    21300010: jYLguf_5
+    21300012: jYLguf_6
+    21300014: jYLguf_7
+    21300016: jYLguf_8
+    21300018: jYLguf_9
+    21300020: jYLguf_10
+    21300022: jYLguf_11
+    21300024: jYLguf_12
+    21300026: jYLguf_13
+    21300028: jYLguf_14
+    21300030: jYLguf_15
+    21300032: jYLguf_16
+    21300034: jYLguf_17
+    21300036: jYLguf_18
+    21300038: jYLguf_19
+    21300040: jYLguf_20
+    21300042: jYLguf_21
+    21300044: jYLguf_22
+    21300046: jYLguf_23
+    21300048: jYLguf_24
+    21300050: jYLguf_25
+    21300052: jYLguf_26
+    21300054: jYLguf_27
+    21300056: jYLguf_28
+    21300058: jYLguf_29
+    21300060: jYLguf_30
+    21300062: jYLguf_31
+    21300064: jYLguf_32
+    21300066: jYLguf_33
+    21300068: jYLguf_34
+    21300070: jYLguf_35
+    21300072: jYLguf_36
+    21300074: jYLguf_37
+    21300076: jYLguf_38
+    21300078: jYLguf_39
+    21300080: jYLguf_40
+    21300082: jYLguf_41
+    21300084: jYLguf_42
+    21300086: jYLguf_43
+    21300088: jYLguf_44
+    21300090: jYLguf_45
+    21300092: jYLguf_46
+    21300094: jYLguf_47
+    21300096: jYLguf_48
+    21300098: jYLguf_49
+    21300100: jYLguf_50
+    21300102: jYLguf_51
+    21300104: jYLguf_52
+    21300106: jYLguf_53
+    21300108: jYLguf_54
+    21300110: jYLguf_55
+    21300112: jYLguf_56
+    21300114: jYLguf_57
+    21300116: jYLguf_58
+    21300118: jYLguf_59
+  externalObjects: {}
+  serializedVersion: 6
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jYLguf_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2ad798f40089247b310f5e2e32e383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 209.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b60ece5c9e5cbb4f85b62fe1f7188a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 209.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c542ac3c9cd1944a7a2e6751e4f4d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 209.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65e136b339e7cc42b330d6555ec4120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 209.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3228dbaf5fc72a04c8258edf3b78bf7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 209.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff82d3f00823e94a9be90bba9b6c650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 209.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65479451de3dc7b41befae21fc7f7ec4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_7
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 209.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc0cbe22bb71cd4789a48e6cf59f17f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_8
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 209.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b3f935c18ee7c448553521c69fe959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_9
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 209.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0651c62331573fa498350ad4dad5aeb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_10
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 209.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dae6f8562752534b98424ab532440eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_11
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 209.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1049e82ca051de44d915aed00df4cbc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_12
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 209.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821f664aadea9de48b6a913052382e96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_13
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 209.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c7845cd88f0fc4887a467e1668669f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_14
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 209.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eac5327869fc67449bf97f0a558923d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8307a1c5c005b43a05852d66e99ca8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 140.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ab8fe0c75f3884987bebdb202f8771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 140.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4981c7111682f6f4f9a6346c5f4d0855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 140.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3139ba1799323c847a98eda196c0b121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 140.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8a44d28b7fb034088a1ed928521698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 140.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4fca42181101943aff39e4cb6ab868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 140.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e2e60a5abee5c47ac2f886c4302dc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_22
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 140.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc03c8ed3dfba0e4783555351503119b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 140.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01efb2c2485c7bc4cb498472b5376606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_24
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 140.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caac14498a3fa64baad6ff1916344ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_25
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 140.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2796bbd90562ed478d2ad66ed7cb94b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_26
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 140.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b84b29dc0593549a3a1f43aaf438cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_27
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 140.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58a7a38c71264e49b7759eb47d7cb83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_28
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 140.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfdf24ddf67b3d47a33f5ae1665f2da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_29
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 140.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1657b75741f67ec4aa2e5fe1f81438df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990ef5bb1a1af2445a2b46f0207f9b48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 71.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40689d78052a4c49b63cf38c260ffd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 71.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6d482c4d6dbb94aae679e494f15587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_33
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 71.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cef34b61d50b094f8e531e9be16d34c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_34
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 71.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cf633d3c5a8b6429a8ec2108b6f1c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_35
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 71.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c041f0e77c0b8f24a9a5fe272aaf6660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_36
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 71.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00112afe7cdd224ca3b173ba122f481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_37
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 71.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6657f5ddd63721f4393e5fb38b8c4087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_38
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 71.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace5db380cde33e468058ecda226140d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_39
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 71.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a988a530aa8f44eb552195f06a3985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_40
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 71.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f39b85429cb89469054c4c5c217e69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_41
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 71.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0be8d0611b03534a8e7f3acc1cdd42f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_42
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 71.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83ff05b270dbdd4788c00217b67fc53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_43
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 71.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab852c0d1dd772478d23d8d11208ea9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_44
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 71.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca82e3024ab42d469b9ee9f127ad76d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33f3ebc531a44243ace00872842452a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_46
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a886d0362e95446ac90192e1dd947b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa118b1274186d2419dd11f2420426ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_48
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2289ee7ce734eea4a9460a2b10672a35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151d759030abeb64f912467d0f3d6ee5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_50
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f18910b4b20114d92589e4d02eaa1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_51
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d6abe9909c54349a378db04877d6eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_52
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81959fdfe0e3ee24cb37957b07a4fbea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_53
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6641f8672ceb8f4da2552062888b428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_54
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddafaa1552259a498fc28929c39d662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_55
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d00afe0cfcf2045a20ef0e6387c9eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_56
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 2.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1965a5b5434d5cc429dc43b96904b76d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_57
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e350becebf8bf1a49ac121989eb4133a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_58
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 2.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6d8fc362fbc704ba0cbbdc23c36a98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jYLguf_59
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2.25
+        width: 52.933334
+        height: 69.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370322eeca2766b44a0b57f80fdccf84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e90947b8294bc2a4e9710712a29cd098
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
